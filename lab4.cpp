@@ -6,9 +6,17 @@ int main()
     int year;
     std::cout << "Input number of a year (>0): ";
     std::cin >> year;
-    int days = (year % 400 == 0 || year % 4 == 0 && year % 100 != 0) ? 366 : 365;
-
-    std::cout << "Number of days in this year: " << days << std::endl;
+    if ((year % 100) == 0) {
+        if ((year % 400) == 0) {
+            std::cout << "Number of days in this year: 366" << std::endl;
+        } else {
+            std::cout << "Number of days in this year: 365" << std::endl;
+        } 
+    } else if ((year % 4) == 0) {
+        std::cout << "Number of days in this year: 366" << std::endl;
+    } else {
+        std::cout << "Number of days in this year: 365" << std::endl;
+    }
 
     return 0;
 }
