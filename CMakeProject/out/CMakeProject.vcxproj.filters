@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="C:\Users\Go200\OneDrive - РУТ (МИИТ)\Study\2k1c\С++\CMakeProject\CMakeProject.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="C:\Users\Go200\OneDrive - РУТ (МИИТ)\Study\2k1c\С++\CMakeProject\CMakeProject.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <CustomBuild Include="C:\Users\Go200\OneDrive - РУТ (МИИТ)\Study\2k1c\С++\CMakeProject\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="Header Files">
+      <UniqueIdentifier>{8EA674E1-B50D-35AC-84D5-6E6F9AF55E50}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{E1EF753A-BA64-36E4-A45A-96C07A73C06B}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>
