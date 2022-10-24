@@ -1,0 +1,7 @@
+﻿  ex14.cpp
+C:\Users\Go200\OneDrive - РУТ (МИИТ)\Study\2k1c\С++\ex14\ex14.cpp(4,9): error C2143: syntax error: missing ';' before '*'
+C:\Users\Go200\OneDrive - РУТ (МИИТ)\Study\2k1c\С++\ex14\ex14.cpp(4,9): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+C:\Users\Go200\OneDrive - РУТ (МИИТ)\Study\2k1c\С++\ex14\ex14.cpp(4,36): error C2761: 'Tree::Treenode *Tree::findNode(int)': redeclaration of member is not allowed
+C:\Users\Go200\OneDrive - РУТ (МИИТ)\Study\2k1c\С++\ex14\ex14.cpp(4,36): error C2059: syntax error: '{'
+C:\Users\Go200\OneDrive - РУТ (МИИТ)\Study\2k1c\С++\ex14\ex14.cpp(4,36): error C2143: syntax error: missing ';' before '{'
+C:\Users\Go200\OneDrive - РУТ (МИИТ)\Study\2k1c\С++\ex14\ex14.cpp(4,36): error C2447: '{': missing function header (old-style formal list?)
