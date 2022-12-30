@@ -16,4 +16,8 @@ public:
 	void push_back(int d);
 
 	void pop_front();
+	
+	void display() {
+        cout << d << endl;
+    }
 };
